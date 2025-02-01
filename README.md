@@ -4,7 +4,7 @@
 
 ### Flowchart of the Work
 
-<img src="https://github.com/user-attachments/assets/9dc9c467-8f76-4ad1-9404-39cc7dce1163" width="800" height="900" />
+<img src="https://github.com/user-attachments/assets/9dc9c467-8f76-4ad1-9404-39cc7dce1163" width="700" height="800" />
 
 In the above flowchart:
 - **Blue** → Training Phase  
@@ -39,7 +39,7 @@ Given above is **Validation Accuracy vs Hidden Layer Size** for different Activa
 
 ### Flowchart of the Work
 
-<img src="https://github.com/user-attachments/assets/50d55e62-731d-4654-8aa2-817019994c11" width="800" height="900" />
+<img src="https://github.com/user-attachments/assets/50d55e62-731d-4654-8aa2-817019994c11" width="700" height="800" />
 
 In the above flowchart:
 - **Blue** → Training Phase  
@@ -59,7 +59,7 @@ In the above flowchart:
 
 #### Accuracy Results
 
-<img src="https://github.com/user-attachments/assets/cf5e8d77-be9c-4cb1-8b22-0286ad03a74f" width="800" height="900" />
+<img src="https://github.com/user-attachments/assets/cf5e8d77-be9c-4cb1-8b22-0286ad03a74f" width="600" height="400" />
 
 Given above is **Validation Accuracy vs Hidden Layer Size** for different Activation Functions used in the **3-Layered MLP (72 × 72 Input Image)**.
 

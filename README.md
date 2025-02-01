@@ -4,7 +4,7 @@
 
 ### Flowchart of the Work
 
-<img src="https://github.com/user-attachments/assets/9dc9c467-8f76-4ad1-9404-39cc7dce1163" width="600" height="400" />
+<img src="https://github.com/user-attachments/assets/9dc9c467-8f76-4ad1-9404-39cc7dce1163" width="800" height="900" />
 
 In the above flowchart:
 - **Blue** → Training Phase  
